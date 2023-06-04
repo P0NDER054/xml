@@ -70,6 +70,11 @@
 <changefreq>monthly</changefreq>
 </url>
 <url>
+<loc>http://example.com/images/</loc>
+<lastmod>2023-06-03</lastmod>
+<changefreq>monthly</changefreq>
+</url>
+<url>
 <loc>http://example.com/index.html</loc>
 <lastmod>2023-06-03</lastmod>
 <changefreq>monthly</changefreq>
